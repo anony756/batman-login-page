@@ -10,7 +10,7 @@ A simple and stylish login page inspired by Batman, built using HTML and CSS. Th
 
 ## Preview
 
-![Preview of Batman Login Page](https://animated-begonia-0713b8.netlify.app/)
+https://animated-begonia-0713b8.netlify.app/
 
 ## Technologies Used
 
